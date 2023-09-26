@@ -13,8 +13,6 @@ class MyLinkedList:
             temp=self.head
             for i in range(index):
                 temp=temp.next
-            if temp.val==-1:
-                return -1
             return temp.val
         return -1
 
@@ -36,7 +34,6 @@ class MyLinkedList:
         if self.head==None and index==0:
             self.head=self.Node(val)
             self.length+=1
-            return
         if index==0:
             self.addAtHead(val)
             return
@@ -49,18 +46,6 @@ class MyLinkedList:
                 temp=temp.next
             temp.next=self.Node(val,temp.next)
             self.length+=1
-        # else:
-        #     self.head=self.Node(-1)
-        #     curr=self.head
-        #     self.length=1
-        #     for i in range(index-self.length):
-        #         # print(i)
-        #         curr.next=self.Node(-1)
-        #         curr=curr.next
-        #         self.length+=1
-        #     curr.next=self.Node(val)
-        #     self.length+=1
-        #     self.printNode()
 
     def deleteAtIndex(self, index: int) -> None:
         if index==0:
