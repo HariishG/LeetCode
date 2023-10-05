@@ -24,7 +24,6 @@ class Solution:
             return 'Draw'
         return 'Pending'
 
-
     def findWinner(self, grid):
         for i in range(3):
             if grid[i][0]==grid[i][1]==grid[i][2]!=' ':
@@ -34,4 +33,3 @@ class Solution:
         if grid[0][0]==grid[1][1]==grid[2][2]!=' ' or grid[0][2]==grid[1][1]==grid[2][0]!=' ':
             return grid[1][1]
         return None
-            
