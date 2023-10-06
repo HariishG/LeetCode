@@ -5,7 +5,7 @@ class Solution:
         if n==3:
             return 2
         ans=1
-        while n>=5:
+        while n>4:
             ans*=3
             n-=3
         return ans*n
