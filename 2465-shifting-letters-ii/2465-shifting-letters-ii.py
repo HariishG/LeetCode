@@ -13,5 +13,5 @@ class Solution:
         for i in range(len(s)):
             total+=shift_amount[i]
             sa=97+(ord(s[i])+total-97)%26
-            s = s[:i] + chr(sa) + s[i+1:]
+            s=s[:i]+chr(sa)+s[i+1:]
         return s
