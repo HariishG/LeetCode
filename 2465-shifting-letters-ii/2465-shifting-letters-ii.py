@@ -9,7 +9,7 @@ class Solution:
                 shift_amount[i[0]]-=1
                 shift_amount[i[1]+1]+=1
         total=0
-        print(shift_amount)
+        # print(shift_amount)
         for i in range(len(s)):
             total+=shift_amount[i]
             sa=97+(ord(s[i])+total-97)%26
