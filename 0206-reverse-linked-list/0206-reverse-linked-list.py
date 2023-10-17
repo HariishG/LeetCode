@@ -18,16 +18,3 @@ class Solution:
         curr.next=head
         head=curr
         return head
-
-        # r=ListNode()
-        # if(not(head)):
-        #     return None
-        # if(not(head.next)):
-        #     return head
-        # while(head.next):
-        #     r.val=head.val
-        #     head=head.next
-        #     new_r=ListNode(head.val)
-        #     new_r.next=r
-        #     r=new_r
-        # return r
