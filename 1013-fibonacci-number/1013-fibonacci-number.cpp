@@ -6,7 +6,6 @@ public:
             t=b;
             b=a+b;
             a=t;
-            cout<<a<<' '<<b<<'\n';
         }
         return a;
     }
