@@ -32,10 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0726-number-of-atoms](https://github.com/HariishG/LeetCode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariishG/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/HariishG/LeetCode/tree/master/0726-number-of-atoms) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariishG/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariishG/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariishG/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariishG/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HariishG/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariishG/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
@@ -85,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariishG/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
