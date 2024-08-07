@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/HariishG/LeetCode/tree/master/0726-number-of-atoms) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariishG/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -97,4 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariishG/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
