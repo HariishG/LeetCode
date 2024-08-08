@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/HariishG/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/HariishG/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariishG/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariishG/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/HariishG/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/HariishG/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariishG/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HariishG/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -111,5 +113,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/HariishG/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/HariishG/LeetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
