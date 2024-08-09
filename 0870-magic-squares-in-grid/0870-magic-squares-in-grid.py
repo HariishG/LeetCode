@@ -12,7 +12,6 @@ class Solution:
         ans=0
         for i in range(len(grid)-2):
             for j in range(len(grid[0])-2):
-                print(i,j)
                 if func(i,j):
                     ans+=1
         return ans
