@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0726-number-of-atoms](https://github.com/HariishG/LeetCode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/HariishG/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0870-magic-squares-in-grid](https://github.com/HariishG/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HariishG/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -191,5 +194,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariishG/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
