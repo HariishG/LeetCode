@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0650-2-keys-keyboard](https://github.com/HariishG/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/HariishG/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
@@ -195,5 +196,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/HariishG/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariishG/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
