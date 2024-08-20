@@ -202,4 +202,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HariishG/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [2087-confirmation-rate](https://github.com/HariishG/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
