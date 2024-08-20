@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/HariishG/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/HariishG/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/HariishG/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariishG/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/HariishG/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HariishG/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0650-2-keys-keyboard](https://github.com/HariishG/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/HariishG/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -197,10 +199,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/HariishG/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariishG/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HariishG/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [2087-confirmation-rate](https://github.com/HariishG/LeetCode/tree/master/2087-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
