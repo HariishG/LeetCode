@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/HariishG/LeetCode/tree/master/0178-rank-scores) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HariishG/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1268-market-analysis-i](https://github.com/HariishG/LeetCode/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/HariishG/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [2087-confirmation-rate](https://github.com/HariishG/LeetCode/tree/master/2087-confirmation-rate) |
 ## Prefix Sum
 |  |
