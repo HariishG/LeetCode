@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-market-analysis-i](https://github.com/HariishG/LeetCode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/HariishG/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/HariishG/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
+| [2057-count-salary-categories](https://github.com/HariishG/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/HariishG/LeetCode/tree/master/2087-confirmation-rate) |
 ## Prefix Sum
 |  |
