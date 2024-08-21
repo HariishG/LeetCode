@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/HariishG/LeetCode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/HariishG/LeetCode/tree/master/0178-rank-scores) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HariishG/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1268-market-analysis-i](https://github.com/HariishG/LeetCode/tree/master/1268-market-analysis-i) |
 | [2087-confirmation-rate](https://github.com/HariishG/LeetCode/tree/master/2087-confirmation-rate) |
 ## Prefix Sum
 |  |
