@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0664-strange-printer](https://github.com/HariishG/LeetCode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/HariishG/LeetCode/tree/master/0726-number-of-atoms) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HariishG/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/HariishG/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/HariishG/LeetCode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariishG/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
