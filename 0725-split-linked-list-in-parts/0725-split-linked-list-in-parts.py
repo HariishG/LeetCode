@@ -16,20 +16,11 @@ class Solution:
         print(split_size, rem)
         ans=[None for _ in range(k)]
         for i in range(min(Len, k)):
-            print(ans)
-            if rem>0 and head:
-                ans[i]=head
-                for j in range(split_size):
-                    head=head.next
-                temp=head
+            ans[i]=head
+            for j in range(split_size if rem>0 else split_size-1):
                 head=head.next
-                temp.next=None
-                rem-=1
-            elif head:
-                ans[i]=head
-                for j in range(split_size-1):
-                    head=head.next
-                temp=head
-                head=head.next
-                temp.next=None
+            temp=head
+            head=head.next
+            temp.next=None
+            rem-=1
         return ans
