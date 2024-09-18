@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HariishG/LeetCode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/HariishG/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0539-minimum-time-difference](https://github.com/HariishG/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HariishG/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/HariishG/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariishG/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/HariishG/LeetCode/tree/master/0726-number-of-atoms) |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/HariishG/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0059-spiral-matrix-ii](https://github.com/HariishG/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0179-largest-number](https://github.com/HariishG/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/HariishG/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariishG/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HariishG/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/HariishG/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/HariishG/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/HariishG/LeetCode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariishG/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
