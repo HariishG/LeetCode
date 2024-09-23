@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariishG/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariishG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/HariishG/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariishG/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HariishG/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HariishG/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/HariishG/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HariishG/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/HariishG/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariishG/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/HariishG/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/HariishG/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/HariishG/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HariishG/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/HariishG/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/HariishG/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/HariishG/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0664-strange-printer](https://github.com/HariishG/LeetCode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/HariishG/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/HariishG/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/HariishG/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -350,4 +354,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/HariishG/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/HariishG/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/HariishG/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
