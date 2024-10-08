@@ -13,6 +13,7 @@ class Solution:
                 else:
                     while j>i and s[j]!='[':
                         j-=1
+                    j-=1
                     count+=1
                     res+=1
             i+=1
