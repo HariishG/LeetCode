@@ -1,22 +1,19 @@
 class Solution:
     def minSwaps(self, s: str) -> int:
-        s=list(s)
-        n=len(s)
         i=0
-        j=n-1
-        stack=[]
+        j=len(s)-1
+        count=0
         res=0
         while i<j:
             if s[i]=='[':
-                stack.append(True)
+                count+=1
             else:
-                if stack:
-                    stack.pop()
+                if count:
+                    count-=1
                 else:
                     while j>i and s[j]!='[':
                         j-=1
-                    s[j]=']'
-                    stack.append(True)
+                    count+=1
                     res+=1
             i+=1
         return res
