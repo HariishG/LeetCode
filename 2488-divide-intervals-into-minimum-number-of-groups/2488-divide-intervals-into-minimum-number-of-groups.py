@@ -1,9 +1,21 @@
 class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
-        intervals.sort()
-        heap=[]
+        start=[]
+        end=[]
         for s,e in intervals:
-            if heap and heap[0]<s:
-                heapq.heappop(heap)
-            heapq.heappush(heap, e)
-        return len(heap)
+            start.append(s)
+            end.append(e)
+        
+        start.sort()
+        end.sort()
+
+        i=0
+        j=0
+        res=0
+        while i<len(intervals):
+            if start[i]<=end[j]:
+                i+=1
+            else:
+                j+=1
+            res=max(res, i-j)
+        return res
