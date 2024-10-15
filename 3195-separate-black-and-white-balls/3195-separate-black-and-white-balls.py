@@ -1,10 +1,10 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        i=j=0
+        i=0
         n=len(s)
         while i<n and s[i]=='0':
             i+=1
-            j+=1
+        j=i
         res=0
         while i<n:
             if s[i]=='0':
