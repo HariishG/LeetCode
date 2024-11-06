@@ -14,7 +14,7 @@ class Solution:
             if Min<prev_max:
                 return False
             if i<n:
-                prev_max=Max
+                prev_max=max(prev_max, Max)
                 cnt=bin(nums[i]).count('1')
                 Min=nums[i]
                 Max=nums[i]
