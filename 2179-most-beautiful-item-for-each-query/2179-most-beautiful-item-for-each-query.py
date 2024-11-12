@@ -13,7 +13,7 @@ class Solution:
             
 
         n=len(items)
-        items.sort(key=lambda x:(x[0],x[1]))
+        items.sort()
         for i in range(1,n):
             items[i][1]=max(items[i-1][1],items[i][1])
         res=[]
