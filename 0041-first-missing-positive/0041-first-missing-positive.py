@@ -5,8 +5,9 @@ class Solution:
             if nums[i]<=0:
                 nums[i]=n+1
         for i in range(n):
-            if abs(nums[i])<=n and not(nums[abs(nums[i])-1]<0):
-                nums[abs(nums[i])-1]*=-1
+            idx=abs(nums[i])
+            if idx<=n and not(nums[idx-1]<0):
+                nums[idx-1]*=-1
         
         for i in range(n):
             if not(nums[i]<0):
