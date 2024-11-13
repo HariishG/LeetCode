@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/HariishG/LeetCode/tree/master/0041-first-missing-positive) |
 | [0264-ugly-number-ii](https://github.com/HariishG/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/HariishG/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0432-all-oone-data-structure](https://github.com/HariishG/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/HariishG/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/HariishG/LeetCode/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/HariishG/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/HariishG/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/HariishG/LeetCode/tree/master/0539-minimum-time-difference) |
