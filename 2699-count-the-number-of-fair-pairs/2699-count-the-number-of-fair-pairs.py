@@ -26,8 +26,3 @@ class Solution:
             if ub>lb:
                 res+=ub-lb
         return res
-
-
-
-
-        return res
