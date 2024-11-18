@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/HariishG/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/HariishG/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/HariishG/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1755-defuse-the-bomb](https://github.com/HariishG/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/HariishG/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/HariishG/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/HariishG/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/HariishG/LeetCode/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/HariishG/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/HariishG/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/HariishG/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/HariishG/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
